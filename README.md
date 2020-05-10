@@ -4,7 +4,7 @@ Flask's request option is used to check against the methods like post and get to
 pymysql module is used to perform queries on the table by creating and then connecting to the database.
 
 Instructions to dockerize the app:-
-Keep all the above files and folder inside one root folder.
+Keep all the above files and folder inside one root folder(except readme and postman collection).
 cd to the root folder. 
 Login as root user.
 Run docker build command to create docker image from the docker file.
